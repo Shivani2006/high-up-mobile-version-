@@ -1,2 +1,2 @@
-# high-up-mobile-version-
-same game now available in your phone
+# p5.play-boilerplate
+Boiler plate for p5.play
